@@ -1,0 +1,2 @@
+# pinstats
+Pinball Stats Website
